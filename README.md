@@ -4,4 +4,4 @@ small script to "http ping" an http endpoint once a second, recording http respo
 
 ## usage
 
-httpPing https://yoururl.here
+http_ping https://yoururl.here
